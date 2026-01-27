@@ -5,7 +5,7 @@ class Ytt < Formula
   homepage "https://github.com/SaraHan774/ytt"
   url "https://github.com/SaraHan774/ytt/archive/refs/tags/v1.0.4.tar.gz"
   sha256 "709184bb3c8231c1a8c7d83c7ac8e314e968b08abb47252c4fefb41bc3dc3e6d"
-  license "MIT"
+  license "Apache-2.0"
   head "https://github.com/SaraHan774/ytt.git", branch: "main"
 
   depends_on "ffmpeg"
