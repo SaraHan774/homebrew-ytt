@@ -3,8 +3,8 @@ class Ytt < Formula
 
   desc "YouTube Transcript Tool - AI-powered video transcription and summarization"
   homepage "https://github.com/SaraHan774/ytt"
-  url "https://github.com/SaraHan774/ytt/archive/refs/tags/v1.0.4.tar.gz"
-  sha256 "709184bb3c8231c1a8c7d83c7ac8e314e968b08abb47252c4fefb41bc3dc3e6d"
+  url "https://github.com/SaraHan774/ytt/archive/refs/tags/v1.0.5.tar.gz"
+  sha256 "9096c084cc88fd0c9dac7d25a06ae69d9eb34e338e997752372f1586747f6a74"
   license "Apache-2.0"
   head "https://github.com/SaraHan774/ytt.git", branch: "main"
 
